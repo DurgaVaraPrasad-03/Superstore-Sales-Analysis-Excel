@@ -85,6 +85,10 @@ The dashboard contains six charts covering:
 
 Slicers allow users to interactively filter the dashboard. The dashboard is intended to provide a concise view of performance without requiring users to navigate each analysis table.
 
+### Dashboard Preview
+
+![Superstore Sales Dashboard](SuperstoreAnalysis_dashboard.png)
+
 ## Business Recommendations
 
 - **Inventory planning:** Monitor stock availability for high-performing products and product areas, including Phones, Chairs, and Technology products.
@@ -108,9 +112,9 @@ The project includes a GenAI-in-Excel activity using Microsoft Excel 365 and ava
 
 ## Project Files
 
-- `Superstore_Sales_Analysis.xlsx` — completed Excel project workbook
-- `README.md` — project documentation
-- `Dashboard_Screenshot.png` — dashboard preview (to be added)
+- `Superstore_Sales_Analysis (1).xlsx` – Completed Excel workbook
+- `README.md` – Project documentation
+- `SuperstoreAnalysis_dashboard.png` – Dashboard preview
 
 ## Limitations
 
