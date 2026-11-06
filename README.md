@@ -110,11 +110,13 @@ The project includes a GenAI-in-Excel activity using Microsoft Excel 365 and ava
 5. Open `Interactive Dashboards` and use the slicers to filter the charts.
 6. Read `Findings & Recommendations` for the main conclusions drawn from the analysis.
 
+
 ## Project Files
 
-- `Superstore_Sales_Analysis (1).xlsx` – Completed Excel workbook
-- `README.md` – Project documentation
-- `SuperstoreAnalysis_dashboard.png` – Dashboard preview
+- **Excel Workbook:** `Superstore_Sales_Analysis (1).xlsx`
+- **Project Documentation:** `README.md`
+- **Dashboard Screenshot:** `SuperstoreAnalysis_dashboard.png`
+
 
 ## Limitations
 
